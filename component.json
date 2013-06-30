@@ -1,0 +1,7 @@
+{
+  "name": "howler",
+  "scripts": [
+    "howler.js"
+  ],
+  "main": "howler.js"
+}
